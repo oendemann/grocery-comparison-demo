@@ -1,3 +1,3 @@
 .env
 node_modules/
-debug-page.html
+debug-*.html
