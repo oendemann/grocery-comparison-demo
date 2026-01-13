@@ -1,0 +1,31 @@
+{
+  "name": "compareprices.com",
+  "version": "1.0.0",
+  "description": "Node Project for website that compares grocery prices of all nearby grocery stores.",
+  "keywords": [
+    "n/a"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "node-project"
+  },
+  "license": "UNLICENSED",
+  "author": "Owen Endemann",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm help init",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0",
+    "mongoose": "^9.1.0",
+    "puppeteer": "^24.34.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

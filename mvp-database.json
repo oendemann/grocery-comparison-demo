@@ -1,0 +1,50 @@
+[
+  {
+  "itemName": "Eggs (Dozen)",
+  "price": 3.00,
+  "protein": 72,
+  "proteinBioavailabilityScore": 0.91
+  },
+
+  {
+  "itemName": "Whole Milk (1 Gal)",
+  "price": 3.50,
+  "protein": 128,
+  "proteinBioavailabilityScore": 1.00
+  },
+
+  {
+  "itemName": "Dried Lentils (1 Lb)",
+  "price": 1.50,
+  "protein": 115,
+  "proteinBioavailabilityScore": 0.55
+  },
+
+  {
+  "itemName": "Peanut Butter (1 Jar)",
+  "price": 2.50,
+  "protein": 64,
+  "proteinBioavailabilityScore": 0.52
+  },
+
+  {
+  "itemName": "Ground Beef (80/20) (1 Lb)",
+  "price": 4.50,
+  "protein": 80,
+  "proteinBioavailabilityScore": 0.92
+  },
+
+  {
+  "itemName": "Canned Tuna (Can)",
+  "price": 1.00,
+  "protein": 20,
+  "proteinBioavailabilityScore": 1.00
+  },
+
+  {
+  "itemName": "Whey Protein (1 Tub)",
+  "price": 30.00,
+  "protein": 750,
+  "proteinBioavailabilityScore": 1.00
+  }
+]
